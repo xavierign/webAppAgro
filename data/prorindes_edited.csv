@@ -1,0 +1,103 @@
+Manejo.Suelo,suelo,mean,sd,p05,p25,p50,p75,p95,localidad,cultivo
+III Largo - 10 Nov,(Argiudol tipico/Laprida),2225,1339,331,1151,2078,3299,4456,CORONEL SUAREZ,SOJA
+III Largo - 10 Nov,(Hapludol antico/Guamini),1743,1213,131,752,1454,2530,4197,CORONEL SUAREZ,SOJA
+III Largo - 10 Nov,(Hapludol tipico/La Carolina),2437,1288,408,1380,2451,3506,4515,CORONEL SUAREZ,SOJA
+IV Largo - 15 Nov,(Argiudol tipico/Laprida),1778,1148,197,838,1513,2685,3796,CORONEL SUAREZ,SOJA
+IV Largo - 15 Nov,(Hapludol antico/Guamini),1354,1008,100,502,1215,1940,3564,CORONEL SUAREZ,SOJA
+IV Largo - 15 Nov,(Hapludol tipico/La Carolina),2001,1146,288,1093,1947,3011,3842,CORONEL SUAREZ,SOJA
+15 Oct - 130N - 5.5pl,(Argiudol tipico/Laprida),8532,2620,2868,6818,9378,10645,11290,CORONEL SUAREZ,MAIZ TEMPRANO
+15 Oct - 130N - 5.5pl,(Hapludol antico/Guamini),6550,2996,624,4274,7066,9426,10222,CORONEL SUAREZ,MAIZ TEMPRANO
+15 Oct - 130N - 5.5pl,(Hapludol tipico/La Carolina),9086,2944,2806,7262,10050,11564,12305,CORONEL SUAREZ,MAIZ TEMPRANO
+1 Dic - 120N - 4.5pl,(Argiudol tipico/Laprida),7945,1889,3770,7404,8598,9178,9806,CORONEL SUAREZ,MAIZ TARDIO
+1 Dic - 120N - 4.5pl,(Hapludol antico/Guamini),6715,2295,1995,6114,7283,8340,9146,CORONEL SUAREZ,MAIZ TARDIO
+1 Dic - 120N - 4.5pl,(Hapludol tipico/La Carolina),8537,2260,3210,7639,9260,10096,11011,CORONEL SUAREZ,MAIZ TARDIO
+Intermedio-Corto - 25 Jul - 140N,(Argiudol tipico/Laprida),3939,1613,1154,2741,4092,5262,6214,CORONEL SUAREZ,TRIGO
+Intermedio-Corto - 25 Jul - 140N,(Hapludol antico/Guamini),4164,1451,1745,3178,4206,5406,6276,CORONEL SUAREZ,TRIGO
+Intermedio-Corto - 25 Jul - 140N,(Hapludol tipico/La Carolina),4279,1625,1594,3120,4352,5784,6650,CORONEL SUAREZ,TRIGO
+Intermedio-Largo - 25 Jun - 140N,(Argiudol tipico/Laprida),3750,1475,1152,2790,3826,5076,5749,CORONEL SUAREZ,TRIGO
+Intermedio-Largo - 25 Jun - 140N,(Hapludol antico/Guamini),4019,1343,1562,3034,4048,5217,5862,CORONEL SUAREZ,TRIGO
+Intermedio-Largo - 25 Jun - 140N,(Hapludol tipico/La Carolina),4116,1513,1471,3043,4132,5473,6124,CORONEL SUAREZ,TRIGO
+III Largo - 20 Oct,(Argiudol tipico/Delgado),3602,1487,1129,2267,3777,5078,5437,JUNIN,SOJA
+III Largo - 20 Oct,(Hapludol antico/Saforcada),3187,1451,1056,1982,3144,4515,5161,JUNIN,SOJA
+III Largo - 20 Oct,(Hapludol thapto argico/Ortiz de Rosas),3481,1461,1042,2139,3562,4912,5346,JUNIN,SOJA
+III Largo - 20 Oct,(Hapludol tipico/Santa Isabel),3626,1483,1143,2305,3824,5080,5437,JUNIN,SOJA
+IV Largo - 20 Oct,(Argiudol tipico/Delgado),3601,1509,882,2372,4228,4901,5502,JUNIN,SOJA
+IV Largo - 20 Oct,(Hapludol antico/Saforcada),3236,1536,845,1875,3526,4616,5481,JUNIN,SOJA
+IV Largo - 20 Oct,(Hapludol thapto argico/Ortiz de Rosas),3505,1519,800,2148,3979,4850,5500,JUNIN,SOJA
+IV Largo - 20 Oct,(Hapludol tipico/Santa Isabel),3622,1508,859,2400,4248,4925,5499,JUNIN,SOJA
+25 Sept - 150N - 7pl,(Argiudol tipico/Delgado),9718,2166,5337,8662,10594,11154,11953,JUNIN,MAIZ TEMPRANO
+25 Sept - 150N - 7pl,(Hapludol antico/Saforcada),7759,2641,2353,6034,8319,9983,11157,JUNIN,MAIZ TEMPRANO
+25 Sept - 150N - 7pl,(Hapludol thapto argico/Ortiz de Rosas),9183,2524,4350,7977,9982,10996,12147,JUNIN,MAIZ TEMPRANO
+25 Sept - 150N - 7pl,(Hapludol tipico/Santa Isabel),9616,2070,5484,8722,10386,11009,11709,JUNIN,MAIZ TEMPRANO
+30 Nov - 130N - 6pl,(Argiudol tipico/Delgado),9064,1622,5896,8460,9566,10126,10875,JUNIN,MAIZ TARDIO
+30 Nov - 130N - 6pl,(Hapludol antico/Saforcada),8109,1835,3964,7029,8702,9434,10092,JUNIN,MAIZ TARDIO
+30 Nov - 130N - 6pl,(Hapludol thapto argico/Ortiz de Rosas),8810,1872,5534,7774,9438,10161,10842,JUNIN,MAIZ TARDIO
+30 Nov - 130N - 6pl,(Hapludol tipico/Santa Isabel),8912,1503,6128,8249,9350,9908,10526,JUNIN,MAIZ TARDIO
+Intermedio-Corto - 25 Jun - 140N,(Argiudol tipico/Delgado),3536,1391,1130,2516,3665,4577,5542,JUNIN,TRIGO
+Intermedio-Corto - 25 Jun - 140N,(Hapludol antico/Saforcada),3857,1135,1854,3028,3895,4671,5530,JUNIN,TRIGO
+Intermedio-Corto - 25 Jun - 140N,(Hapludol thapto argico/Ortiz de Rosas),3618,1352,1274,2620,3574,4704,5646,JUNIN,TRIGO
+Intermedio-Corto - 25 Jun - 140N,(Hapludol tipico/Santa Isabel),3697,1360,1236,2724,3842,4685,5594,JUNIN,TRIGO
+Intermedio-Largo - 1 Jun - 140N,(Argiudol tipico/Delgado),3544,1301,1367,2466,3763,4511,5372,JUNIN,TRIGO
+Intermedio-Largo - 1 Jun - 140N,(Hapludol antico/Saforcada),3815,1019,2064,3089,4034,4541,5343,JUNIN,TRIGO
+Intermedio-Largo - 1 Jun - 140N,(Hapludol thapto argico/Ortiz de Rosas),3607,1267,1599,2645,3762,4530,5485,JUNIN,TRIGO
+Intermedio-Largo - 1 Jun - 140N,(Hapludol tipico/Santa Isabel),3685,1252,1613,2631,3878,4630,5378,JUNIN,TRIGO
+III Largo - 15 Oct,(Hapludol antico/Norumbega),3376,1453,1283,2153,3167,4672,5605,9 DE JULIO,SOJA
+III Largo - 15 Oct,(Hapludol thapto argico/Ortiz de Rosas),3449,1439,1328,2265,3204,4721,5549,9 DE JULIO,SOJA
+III Largo - 15 Oct,(Hapludol tipico/Bragado),3402,1444,1229,2246,3168,4690,5541,9 DE JULIO,SOJA
+IV Medio - 10 Nov,(Hapludol antico/Norumbega),3519,1372,1109,2487,3633,4919,5235,9 DE JULIO,SOJA
+IV Medio - 10 Nov,(Hapludol thapto argico/Ortiz de Rosas),3557,1384,1081,2594,3679,4919,5241,9 DE JULIO,SOJA
+IV Medio - 10 Nov,(Hapludol tipico/Bragado),3526,1374,1172,2464,3652,4910,5206,9 DE JULIO,SOJA
+25 Sept - 150N - 6.5pl,(Hapludol antico/Norumbega),9777,2028,5431,8683,10640,11161,11763,9 DE JULIO,MAIZ TEMPRANO
+25 Sept - 150N - 6.5pl,(Hapludol thapto argico/Ortiz de Rosas),9582,2211,5366,8038,10657,11168,11861,9 DE JULIO,MAIZ TEMPRANO
+25 Sept - 150N - 6.5pl,(Hapludol tipico/Bragado),9203,1865,5736,7784,9978,10570,11128,9 DE JULIO,MAIZ TEMPRANO
+30 Nov - 130N - 5.5pl,(Hapludol antico/Norumbega),9170,1385,6888,8774,9515,10014,10741,9 DE JULIO,MAIZ TARDIO
+30 Nov - 130N - 5.5pl,(Hapludol thapto argico/Ortiz de Rosas),9032,1594,6070,8464,9449,9966,10847,9 DE JULIO,MAIZ TARDIO
+30 Nov - 130N - 5.5pl,(Hapludol tipico/Bragado),8650,1375,6059,8272,8864,9470,10218,9 DE JULIO,MAIZ TARDIO
+Intermedio-Corto - 25 Jun - 140N,(Hapludol antico/Norumbega),4286,1212,1978,3619,4380,5266,5869,9 DE JULIO,TRIGO
+Intermedio-Corto - 25 Jun - 140N,(Hapludol thapto argico/Ortiz de Rosas),4055,1200,1684,3365,4090,4982,5604,9 DE JULIO,TRIGO
+Intermedio-Corto - 25 Jun - 140N,(Hapludol tipico/Bragado),3797,1203,1497,3096,3818,4758,5362,9 DE JULIO,TRIGO
+Intermedio-Largo - 5 Jun - 140N,(Hapludol antico/Norumbega),4341,1150,1977,3705,4584,5236,5747,9 DE JULIO,TRIGO
+Intermedio-Largo - 5 Jun - 140N,(Hapludol thapto argico/Ortiz de Rosas),4059,1131,1810,3398,4281,4939,5465,9 DE JULIO,TRIGO
+Intermedio-Largo - 5 Jun - 140N,(Hapludol tipico/Bragado),3847,1146,1526,3142,4079,4692,5239,9 DE JULIO,TRIGO
+III Largo - 15 Oct,(Hapludol antico/San Jorge),3279,1494,884,2164,3204,4605,5638,PEHUAJO,SOJA
+III Largo - 15 Oct,(Hapludol thapto argico/Ortiz de Rosas),3138,1461,883,2100,3068,4241,5572,PEHUAJO,SOJA
+III Largo - 15 Oct,(Hapludol tipico/Pehuajo),2943,1397,1032,1922,2868,3813,5511,PEHUAJO,SOJA
+IV Medio - 10 Nov,(Hapludol antico/San Jorge),3292,1411,805,2292,3390,4438,5432,PEHUAJO,SOJA
+IV Medio - 10 Nov,(Hapludol thapto argico/Ortiz de Rosas),3162,1382,759,2190,3111,4152,5434,PEHUAJO,SOJA
+IV Medio - 10 Nov,(Hapludol tipico/Pehuajo),2972,1320,739,2074,2950,3864,5206,PEHUAJO,SOJA
+25 Sept - 150N - 6.5pl,(Hapludol antico/San Jorge),9915,2153,5171,8848,10707,11454,12172,PEHUAJO,MAIZ TEMPRANO
+25 Sept - 150N - 6.5pl,(Hapludol thapto argico/Ortiz de Rosas),9845,2478,5654,7958,10616,11796,12469,PEHUAJO,MAIZ TEMPRANO
+25 Sept - 150N - 6.5pl,(Hapludol tipico/Pehuajo),6796,2122,3250,5288,6980,8415,10172,PEHUAJO,MAIZ TEMPRANO
+30 Nov - 130N - 5.5pl,(Hapludol antico/San Jorge),9250,1537,6334,8711,9695,10294,10966,PEHUAJO,MAIZ TARDIO
+30 Nov - 130N - 5.5pl,(Hapludol thapto argico/Ortiz de Rosas),9136,1928,5127,8452,9652,10428,11221,PEHUAJO,MAIZ TARDIO
+30 Nov - 130N - 5.5pl,(Hapludol tipico/Pehuajo),8050,1684,4905,7370,8308,9162,10173,PEHUAJO,MAIZ TARDIO
+Intermedio-Corto - 25 Jun - 140N,(Hapludol antico/San Jorge),3940,1294,1832,2980,4018,5100,5734,PEHUAJO,TRIGO
+Intermedio-Corto - 25 Jun - 140N,(Hapludol thapto argico/Ortiz de Rosas),3669,1417,1291,2611,3679,4811,5741,PEHUAJO,TRIGO
+Intermedio-Corto - 25 Jun - 140N,(Hapludol tipico/Pehuajo),3622,1400,1293,2568,3687,4766,5684,PEHUAJO,TRIGO
+Intermedio-Largo - 5 Jun - 140N,(Hapludol antico/San Jorge),3931,1169,1803,3129,4008,4879,5470,PEHUAJO,TRIGO
+Intermedio-Largo - 5 Jun - 140N,(Hapludol thapto argico/Ortiz de Rosas),3640,1285,1321,2765,3680,4642,5459,PEHUAJO,TRIGO
+Intermedio-Largo - 5 Jun - 140N,(Hapludol tipico/Pehuajo),3603,1269,1307,2730,3589,4561,5382,PEHUAJO,TRIGO
+III Largo - 15 Nov,(Argiudol tipico/Mar del Plata (tosca 140 cm)),2936,1234,669,1946,3150,4010,4557,TANDIL,SOJA
+III Largo - 15 Nov,(Argiudol tipico/Mar del Plata (tosca 60 cm)),1372,953,104,753,1151,1874,3177,TANDIL,SOJA
+III Largo - 15 Nov,(Argiudol tipico/Tandil),3000,1170,1056,2118,3288,3968,4597,TANDIL,SOJA
+III Largo - 15 Nov,(Hapludol thapto argico/Egana),2991,1190,1043,2038,3258,4020,4563,TANDIL,SOJA
+IV Largo - 10 Nov,(Argiudol tipico/Mar del Plata (tosca 140 cm)),2501,1186,437,1463,2696,3428,4161,TANDIL,SOJA
+IV Largo - 10 Nov,(Argiudol tipico/Mar del Plata (tosca 60 cm)),1164,886,151,488,941,1580,3064,TANDIL,SOJA
+IV Largo - 10 Nov,(Argiudol tipico/Tandil),2747,1077,786,1958,2969,3558,4172,TANDIL,SOJA
+IV Largo - 10 Nov,(Hapludol thapto argico/Egana),2734,1099,742,1882,3012,3566,4164,TANDIL,SOJA
+1 Oct - 140N - 6.5pl,(Argiudol tipico/Mar del Plata (tosca 140 cm)),12311,2498,7760,10854,12885,13980,15209,TANDIL,MAIZ TEMPRANO
+1 Oct - 140N - 6.5pl,(Argiudol tipico/Mar del Plata (tosca 60 cm)),7440,3208,954,5276,7990,9741,11423,TANDIL,MAIZ TEMPRANO
+1 Oct - 140N - 6.5pl,(Argiudol tipico/Tandil),11914,2307,7666,10606,12572,13645,14508,TANDIL,MAIZ TEMPRANO
+1 Oct - 140N - 6.5pl,(Hapludol thapto argico/Egana),11895,2198,8047,11308,12419,13316,14239,TANDIL,MAIZ TEMPRANO
+5 Dic - 120N - 5.5pl,(Argiudol tipico/Mar del Plata (tosca 140 cm)),10372,2367,6263,9000,10702,12036,13760,TANDIL,MAIZ TARDIO
+5 Dic - 120N - 5.5pl,(Argiudol tipico/Mar del Plata (tosca 60 cm)),6591,3303,487,4552,6842,9157,10876,TANDIL,MAIZ TARDIO
+5 Dic - 120N - 5.5pl,(Argiudol tipico/Tandil),9849,2218,5938,8425,10249,11402,13040,TANDIL,MAIZ TARDIO
+5 Dic - 120N - 5.5pl,(Hapludol thapto argico/Egana),9799,2016,6292,8876,10231,11108,12549,TANDIL,MAIZ TARDIO
+Intermedio-Corto - 25 Jul - 160N,(Argiudol tipico/Mar del Plata (tosca 140 cm)),4885,1396,2158,4176,5097,5908,6683,TANDIL,TRIGO
+Intermedio-Corto - 25 Jul - 160N,(Argiudol tipico/Mar del Plata (tosca 60 cm)),4131,1323,1893,3390,4164,5028,6340,TANDIL,TRIGO
+Intermedio-Corto - 25 Jul - 160N,(Argiudol tipico/Tandil),4793,1480,2055,3935,4956,5864,6811,TANDIL,TRIGO
+Intermedio-Corto - 25 Jul - 160N,(Hapludol thapto argico/Egana),4993,1440,2225,4196,5184,6098,6822,TANDIL,TRIGO
+Intermedio-Largo - 1 Jul - 160N,(Argiudol tipico/Mar del Plata (tosca 140 cm)),4865,1325,2105,4185,5153,5839,6484,TANDIL,TRIGO
+Intermedio-Largo - 1 Jul - 160N,(Argiudol tipico/Mar del Plata (tosca 60 cm)),4110,1265,1750,3311,4192,4958,6189,TANDIL,TRIGO
+Intermedio-Largo - 1 Jul - 160N,(Argiudol tipico/Tandil),4842,1441,1959,4068,5108,5908,6675,TANDIL,TRIGO
+Intermedio-Largo - 1 Jul - 160N,(Hapludol thapto argico/Egana),4997,1398,2157,4276,5234,6000,6758,TANDIL,TRIGO
